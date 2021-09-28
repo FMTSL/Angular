@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('https://conteudo.imguol.com.br/c/esporte/86/2021/09/11/cristiano-ronaldo-sorri-apos-marcar-dois-gols-no-duelo-entre-manchester-united-e-newcastle-1631374530224_v2_600x600.jpg.webp');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
